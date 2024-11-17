@@ -49,7 +49,6 @@ class BankAccount {
          transaction.printTransaction();
      }
  }
-
  // Getter for the current balance
  public double getBalance() {
      return balance;
